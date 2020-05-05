@@ -133,3 +133,15 @@ footer{
 .button.primary{
   background-color: #f0c040;
 }
+
+.filter{
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  margin: 1rem;
+  border-bottom: grey solid;
+}
+
+.filter div {
+  flex: 1;
+}
